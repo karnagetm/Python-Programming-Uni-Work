@@ -1,5 +1,5 @@
 ## Overview
-This repository contains two key Jupyter notebooks focusing on essential data science tasks using Python. These tasks include data preprocessing, exploratory data analysis, regression analysis, and the utilization of Python classes for data manipulation. The projects are designed to reinforce concepts covered in the first five weeks of the course, along with requiring independent study and application of Python documentation and other resources.
+This repository contains two key Jupyter notebooks focusing on essential data science tasks using Python. These tasks include data preprocessing, exploratory data analysis, regression analysis, and the utilization of Python classes for data manipulation. 
 
 ## Notebooks
 
